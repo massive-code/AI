@@ -1,0 +1,16 @@
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\AI_Solution.exe.config
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\AI_Solution.exe
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\AI_Solution.pdb
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\EntityFramework.dll
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\EntityFramework.SqlServerCompact.dll
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\System.Data.SqlServerCe.dll
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\EntityFramework.xml
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\bin\Debug\EntityFramework.SqlServerCompact.xml
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\obj\Debug\AI_Solution.csprojResolveAssemblyReference.cache
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\obj\Debug\AI_Solution.Form1.resources
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\obj\Debug\AI_Solution.Properties.Resources.resources
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\obj\Debug\AI_Solution.csproj.GenerateResource.Cache
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\obj\Debug\AI_Solution.exe
+c:\users\cezar\documents\visual studio 2013\Projects\AI_Solution\AI_Solution\obj\Debug\AI_Solution.pdb
